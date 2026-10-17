@@ -29,5 +29,5 @@ Each scenario is a small Arduino build that teams of 4 to 5 students do twice. B
 | `Submission_Instructor_Guide.pdf` | Full guide. Start here |
 | `Task_Sheets/` | Six task sheets for students, one per scenario and round |
 | `Seeded_Faults.md` | Faults built into the starter code. Instructor only |
-| `Observation_Sheet.docx` | Observation sheet for D1 to D5 |
-| `Feedback_Survey.docx` | Student survey F1 to F10 |
+| `Observation_Sheet.pdf` | Observation sheet for D1 to D5 |
+| `Feedback_Survey.pdf` | Student survey F1 to F10 |
